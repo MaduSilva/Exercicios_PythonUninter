@@ -73,3 +73,4 @@ elif idade < 18:
 elif idade > 100:
     print('Diferente de você, a Madu não é imortal (ainda bem!)')
 
+# :)
